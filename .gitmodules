@@ -1,6 +1,6 @@
 [submodule "Sources/libsonic/_repo"]
 	path = Sources/libsonic/_repo
-	url = https://github.com/waywardgeek/sonic
+	url = https://github.com/QuVideoDeveloper/sonic.git
 [submodule "Sources/libespeak-ng/_repo"]
 	path = Sources/libespeak-ng/_repo
-	url = https://github.com/espeak-ng/espeak-ng
+	url = https://github.com/QuVideoDeveloper/espeak-ng.git
